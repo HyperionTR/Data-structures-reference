@@ -1,0 +1,7 @@
+> Binary Indexed Tree o Fenwick Tree
+
+> Es una esructura de datos que almacena (comúnmete) los valores de sumas acumuladas a traves de sus nodos, los cuales están indexados según su valor en binario, lo que permite calcular sus dependencias en tiempo constante.
+
+> Además de sumas, los arboles pueden almacenar los valores de funciones que sean conmutativas y tengan valor neutro, como la multiplicacion con neutro 1.
+
+> El arreglo donde se guardan los valores del BIT, siempre debe de tener un cero al inicio para funcionar correctamente 
